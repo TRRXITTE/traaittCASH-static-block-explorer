@@ -1,7 +1,7 @@
 #!/bin/bash -e
 
 # static explorer page generator
-# (c)) TRRXITTE Int., incorporated, TRTL Team | 2020 - TODAY
+# (c)) TRRXITTE Int., incorporate, TRTL Team | 2020 - TODAY
 
 # see LICENSE for details
 

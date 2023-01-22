@@ -166,6 +166,6 @@ txs_as_hex - []
 ]
 
 
-TRRXITTE Int., incorporated (c) 2020 - TODAY
+TRRXITTE Int., incorporate (c) 2020 - TODAY
 https://TRRXITTE.com
 ```
