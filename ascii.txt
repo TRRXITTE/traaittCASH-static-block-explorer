@@ -1,9 +1,9 @@
-CCCC U U RRR RRR EEE N N CCC Y Y|||2020 - TODAY||||||
-CC   U U RR  RR  E   NNN C    Y |||||||||||||||||||||
-CCCC UUU RRR RRR EEE N N CCC  Y |||||||||||||||||||||
-                                TRRXITTE INT. XTCASH 
-HTTPS://TRAAITTCASH.COM         |||||||||||||||||||||
-traaittCASH.com cryptonote currency static explorer!
+CCCC U U RRR RRR EEE N N CCC Y Y|||2020 - TODAY||||||<br />
+CC   U U RR  RR  E   NNN C    Y |||||||||||||||||||||<br />
+CCCC UUU RRR RRR EEE N N CCC  Y |||||||||||||||||||||<br />
+                                TRRXITTE INT. XTCASH <br />
+HTTPS://TRAAITTCASH.COM         |||||||||||||||||||||<br />
+traaittCASH.com cryptonote currency static explorer!<br />
 
 
  
