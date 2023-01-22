@@ -19,7 +19,7 @@ _Path and sleep time should be adjusted to match your preferences. The number of
 #### Shell:
 
 ```bash
-while true; do ./main.sh > /var/www/tor/address.onion/index.html && sleep 68; done
+while true; do ./main.sh > /var/www/html/index.html && sleep 32; done
 ```
 
 ## Example Output:
